@@ -58,6 +58,3 @@ This project demonstrates skills in:
 
 ---
 
-## 👤 Author
-
-Madhava Raju
